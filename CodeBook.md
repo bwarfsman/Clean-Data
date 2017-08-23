@@ -9,7 +9,7 @@ The cleaned dataset includes the following variables.
 
 <Subject> - Integer number from 1 to 30 that represents the person that did the test
 
-<Activity> - Factor that has the 6 different activities that each subject was doing, 
+<Activity> - Factor that has the 6 different activities that each subject was doing:
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
