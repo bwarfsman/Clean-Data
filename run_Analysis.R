@@ -18,7 +18,7 @@ unzip('./Data.zip',exdir='./')
 ## change working directory to unzipped folder
 setwd('UCI HAR Dataset/')
 
-##Load train dataset
+##Load training dataset
 trData<-read.table('train/X_train.txt')
 trLabel<-read.table('features.txt')
 trLabel<-as.character(trLabel$V2)
